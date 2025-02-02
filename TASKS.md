@@ -18,9 +18,6 @@ You can execute the sample program with the following:
 
 ###                     [  TESTING  ]
 
-Each directory has their own test script named " test.sh ". 
-You can test each task individually as you progress, or alternatively run
-the command:
 
 The module_* directory contains a test script named test_all.sh. You can run 
 the following command to test all your tasks at once.
@@ -35,7 +32,7 @@ all of the tasks.
 note ~ test_all.sh must be ran inside the module_* directory; where it is available.
 
 Alternatively, each task has their own script named test.sh inside its directory. You can 
-test each task individually as you work through the module; inside that directory.
+test each task individually as you work through the module.
 
 
 
@@ -71,7 +68,7 @@ w
 
 ### my_name.c
 
-Navigate to the " my_name " directory and write a program that prints your name in this sentence.
+Navigate to the " my_name " directory. Create a file and write a program that prints your name in this sentence.
 
 ```
 Hi my name is Wesley.
@@ -82,7 +79,7 @@ Replace "Wesley" with your name.
 
 ### wesley.c
 
-Navigate to the " wesley " directory and write a program that prints wesley in the following pattern.
+Navigate to the " wesley " directory. Create a file and write a program that prints wesley in the following pattern.
 
 ```
 w
