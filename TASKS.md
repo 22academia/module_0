@@ -1,43 +1,6 @@
 
 
 
-Each task needs to be completed inside their own folders/directories;
-For example, the source-file  hello_world.c  is located inside the  hello_world  directory.
-
-As the module progresses, you are required to create your own C 
-source files in their respective directories.
-
-Each directory has a "sample" program that shows you the expected result for that task. 
-You can execute the sample program with the following:
-
----
-    ./sample
----
-
-
-
-###                     [  TESTING  ]
-
-
-The module_* directory contains a test script named test_all.sh. You can run 
-the following command to test all your tasks at once.
-
----
-    ./test_all.sh 
----
-
-Try running the command in terminal now. You'll see INCOMPLETE for
-all of the tasks.
-
-note ~ test_all.sh must be ran inside the module_* directory; where it is available.
-
-Alternatively, each task has their own script named test.sh inside its directory. You can 
-test each task individually as you work through the module.
-
-
-
-
-
 
 ###                     [  TASKS  ]
 
