@@ -6,7 +6,7 @@
 
 
 
-### hello_world.c						[1] 					
+### hello_world.c								[1] 					
 
 
 
@@ -37,7 +37,7 @@ Hello World!
 
 
 
-### newline.c							[2]
+### newline.c									[2]
 
 
 
@@ -69,7 +69,7 @@ w
 
 
 
-### my_name.c							[3]
+### my_name.c									[3]
 
 
 
@@ -104,7 +104,7 @@ Replace "Wesley" with your name.
 
 
 
-### wesley.c							[4]
+### wesley.c									[4]
 
 
 
